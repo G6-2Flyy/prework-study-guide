@@ -21,7 +21,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 
 
-![image of webpage](assets/images/image1.png)
+![image of webpage](assets/images/Image1.png)
 
 ## Credits
 
